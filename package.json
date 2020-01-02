@@ -11,7 +11,7 @@
         "http-server": "^0.12.0",
         "jasmine-core": "~2.4.1",
         "jquery": "~2.2.0",
-        "minifier"
+        "minifier": "~0.7.1"
     },
     "scripts": {
         "minify": "minify angular-drag-and-drop-lists.js",
